@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.pyc
+
+# Orijinal ödev dosyasının yedeği
+Vize_şablon_orijinal.ipynb
